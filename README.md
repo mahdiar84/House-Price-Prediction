@@ -61,3 +61,24 @@ Visualizations include:
 Error comparison bar charts
 
 Predicted vs Actual prices scatter plot
+
+📌 Future Work
+
+Experiment with XGBoost, LightGBM, CatBoost.
+
+Feature selection techniques.
+
+Use ensemble stacking for better accuracy.
+
+📈 Example Visualizations
+
+Confusion matrix not applicable (regression), but:
+
+Error comparison bar chart.
+
+Predicted vs Actual price scatter plot.
+
+📝 Author
+
+Developed by Mahdiar Naghizadeh
+With ideas and guidance refined through AI collaboration.
